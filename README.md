@@ -17,4 +17,4 @@ From the confusion matrix, we can see that out of 10,422 failed incomes, 9,769 a
 So it is clear that we have poorly bundled many successful revenue sessions as uninterested customers, which means when the high bounce rate combined with a short product-related page duration, there are still a lot of customers. targets.
 ### CREDITS:
 Special thanks to Mr.Aman Kharwal for his amazing blogs.
-and Mr.Dhaval Patel for the explanition of K-elbow & k-means cluster method through his youtube channel 'codebasics'
+and Mr.Dhaval Patel for the explanation of K-elbow & k-means cluster method through his youtube channel 'codebasics'
